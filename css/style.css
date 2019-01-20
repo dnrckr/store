@@ -1,0 +1,433 @@
+/****************INDEX*************/
+.cover1{
+	display: block;
+	margin: auto;
+	width: 30%;
+
+}
+footer{
+	text-align: center;
+	padding-top:100px;
+}
+/****************INDEX***************/
+
+/****************INICIO**************/
+@media screen and (max-width: 1800px) and (min-width: 990px){
+
+img.cover{
+	height: 9%;
+	width: 9%;
+}
+p{
+
+ 	font-family: 'Nunito Sans', sans-serif;
+}
+.inicio{
+	margin-right: 100px;
+	margin-left: 100px;
+text-align: justify;
+}
+.topnav {
+
+margin-left: 160px;
+  background-color: #20B6B7;
+  overflow: hidden;
+}
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav a:hover {
+  background-color: #ddd;
+  color: #112F41;
+}
+.topnav a.active { /*ACTIVE DEJA SELECCIONADA LOS COMANDOS QUE LA TENGAN ACTIVADAS*/
+  background-color: #F2B134;
+  color: white;
+}
+/****************INICIO**************/
+/****************CONTACTO**************/
+.topnav2 {
+  background-color: #BF080B;
+  overflow: hidden;
+ 
+}
+.topnav2 a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav2 a:hover {
+  background-color: #ddd;
+  color: #112F41;
+}
+.topnav2 a.active { /*ACTIVE DEJA SELECCIONADA LOS COMANDOS QUE LA TENGAN ACTIVADAS*/
+  background-color: #F59A22;
+  color: white;
+  }
+.contacto{
+	text-align: center;
+	font-size: 3em;
+	font-family: 'Staatliches', cursive;
+}
+#redes{
+	text-align: center;
+	font-size: 1em;
+}
+ #logo{
+	display: block;
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 5%;
+	height: 5%;
+}
+
+/****************CONTACTO**************/
+/*******************PRODUCTOS********************/
+
+.topnav1 {
+  background-color: #FFEEAD;
+  overflow: hidden;
+}
+.topnav1 a {
+  float: left;
+  color: #6c5B7B;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav1 a:hover {
+  background-color: #ddd;
+  color: #112F41;
+}
+.topnav1 a.active { /*ACTIVE DEJA SELECCIONADA LOS COMANDOS QUE LA TENGAN ACTIVADAS*/
+  background-color: #FF6F69;
+  color: white;
+}
+h1{
+	text-align: center;
+	font-size: 2em;
+}
+p{
+	padding-left: 100px;
+	padding-right: 100px;
+	text-align: center;
+	font-size: 1.5em;
+}
+header.productos{
+	display: block;
+	margin:auto;
+}
+div.imagenes {
+  border: 1px solid #ccc;
+  width: 180px;
+  display: block;
+	margin:auto;
+}
+
+div.imagenes:hover {
+  border: 1px solid #777;
+}
+
+div.imagenes img {
+  width: 100%;
+  height: auto;
+}
+
+div.descripcion {
+  padding: 15px;
+  text-align: center;
+  font-size: ;
+}
+}
+/*********************PRODUCTOS*****************************/
+
+/**************************************************************************************************/
+@media screen and (max-width: 989px) and (min-width: 600px){
+
+img.cover{
+	height: 9%;
+	width: 9%;
+}
+p{
+
+ 	font-family: 'Nunito Sans', sans-serif;
+}
+.inicio{
+	margin-right: 100px;
+	margin-left: 100px;
+text-align: justify;
+}
+.topnav {
+
+margin-left: 160px;
+  background-color: #20B6B7;
+  overflow: hidden;
+}
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav a:hover {
+  background-color: #ddd;
+  color: #112F41;
+}
+.topnav a.active { /*ACTIVE DEJA SELECCIONADA LOS COMANDOS QUE LA TENGAN ACTIVADAS*/
+  background-color: #F2B134;
+  color: white;
+}
+/****************INICIO**************/
+/****************CONTACTO**************/
+.topnav2 {
+  background-color: #BF080B;
+  overflow: hidden;
+ 
+}
+.topnav2 a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav2 a:hover {
+  background-color: #ddd;
+  color: #112F41;
+}
+.topnav2 a.active { /*ACTIVE DEJA SELECCIONADA LOS COMANDOS QUE LA TENGAN ACTIVADAS*/
+  background-color: #F59A22;
+  color: white;
+  }
+.contacto{
+	text-align: center;
+	font-size: 3em;
+	font-family: 'Staatliches', cursive;
+}
+#redes{
+	text-align: center;
+	font-size: 1em;
+}
+ #logo{
+	display: block;
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 5%;
+	height: 5%;
+}
+
+/****************CONTACTO**************/
+/*******************PRODUCTOS********************/
+
+.topnav1 {
+  background-color: #FFEEAD;
+  overflow: hidden;
+}
+.topnav1 a {
+  float: left;
+  color: #6c5B7B;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav1 a:hover {
+  background-color: #ddd;
+  color: #112F41;
+}
+.topnav1 a.active { /*ACTIVE DEJA SELECCIONADA LOS COMANDOS QUE LA TENGAN ACTIVADAS*/
+  background-color: #FF6F69;
+  color: white;
+}
+h1{
+	text-align: center;
+	font-size: 2em;
+}
+p{
+	padding-left: 100px;
+	padding-right: 100px;
+	text-align: center;
+	font-size: 1.5em;
+}
+header.productos{
+	display: block;
+	margin:auto;
+}
+div.imagenes {
+  border: 1px solid #ccc;
+  width: 180px;
+  display: block;
+	margin:auto;
+}
+
+div.imagenes:hover {
+  border: 1px solid #777;
+}
+
+div.imagenes img {
+  width: 100%;
+  height: auto;
+}
+
+div.descripcion {
+  padding: 15px;
+  text-align: center;
+  font-size: ;
+}
+}
+
+/**************************************************************************************************/
+
+/**************************************************************************************************/
+@media screen and (max-width: 600px) and (min-width: 400px){
+img.cover{
+	height: 9%;
+	width: 9%;
+}
+p{
+
+ 	font-family: 'Nunito Sans', sans-serif;
+}
+.inicio{
+	margin-right: 100px;
+	margin-left: 100px;
+text-align: justify;
+}
+.topnav {
+
+margin-left: 160px;
+  background-color: #20B6B7;
+  overflow: hidden;
+}
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav a:hover {
+  background-color: #ddd;
+  color: #112F41;
+}
+.topnav a.active { /*ACTIVE DEJA SELECCIONADA LOS COMANDOS QUE LA TENGAN ACTIVADAS*/
+  background-color: #F2B134;
+  color: white;
+}
+/****************INICIO**************/
+/****************CONTACTO**************/
+.topnav2 {
+  background-color: #BF080B;
+  overflow: hidden;
+ 
+}
+.topnav2 a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav2 a:hover {
+  background-color: #ddd;
+  color: #112F41;
+}
+.topnav2 a.active { /*ACTIVE DEJA SELECCIONADA LOS COMANDOS QUE LA TENGAN ACTIVADAS*/
+  background-color: #F59A22;
+  color: white;
+  }
+.contacto{
+	text-align: center;
+	font-size: 3em;
+	font-family: 'Staatliches', cursive;
+}
+#redes{
+	text-align: center;
+	font-size: 1em;
+}
+ #logo{
+	display: block;
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 5%;
+	height: 5%;
+}
+
+/****************CONTACTO**************/
+/*******************PRODUCTOS********************/
+
+.topnav1 {
+  background-color: #FFEEAD;
+  overflow: hidden;
+}
+.topnav1 a {
+  float: left;
+  color: #6c5B7B;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.topnav1 a:hover {
+  background-color: #ddd;
+  color: #112F41;
+}
+.topnav1 a.active { /*ACTIVE DEJA SELECCIONADA LOS COMANDOS QUE LA TENGAN ACTIVADAS*/
+  background-color: #FF6F69;
+  color: white;
+}
+h1{
+	text-align: center;
+	font-size: 2em;
+}
+p{
+	padding-left: 100px;
+	padding-right: 100px;
+	text-align: center;
+	font-size: 1.5em;
+}
+header.productos{
+	display: block;
+	margin:auto;
+}
+div.imagenes {
+  border: 1px solid #ccc;
+  width: 180px;
+  display: block;
+	margin:auto;
+}
+
+div.imagenes:hover {
+  border: 1px solid #777;
+}
+
+div.imagenes img {
+  width: 100%;
+  height: auto;
+}
+
+div.descripcion {
+  padding: 15px;
+  text-align: center;
+  font-size: ;
+}
+}
+
+/**************************************************************************************************/
